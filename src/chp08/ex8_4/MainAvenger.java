@@ -9,7 +9,5 @@ public class MainAvenger {
         thor.punch(thanos);
         thor.punch(thanos);
         thanos.punch(thor);
-
-
     }
 }
