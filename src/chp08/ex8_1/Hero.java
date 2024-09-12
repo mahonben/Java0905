@@ -35,9 +35,6 @@ public class Hero {
         return speed;
     }
 
-
-
-
     public String toString() {
         return String.format("Hero{name: %s, power: %d, speed: %d}"
                 , name, power, speed);

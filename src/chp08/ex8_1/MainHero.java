@@ -8,4 +8,5 @@ public class MainHero {
         System.out.println(ironMan);    //ironMan.ToString() println()에서는 생략도 가능
         System.out.println(Hulk);
     }
+
 }

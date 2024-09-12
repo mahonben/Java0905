@@ -4,7 +4,6 @@ public class Avenger {
     private String name;
     private int healthPower;
 
-
     public Avenger(String name, int healthPower) {
         this.name = name;
         this.healthPower = healthPower;
