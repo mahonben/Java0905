@@ -9,6 +9,5 @@ public class MainDrink {
         System.out.println(d1);
         System.out.println(d2);
 
-
     }
 }

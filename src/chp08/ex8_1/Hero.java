@@ -11,7 +11,6 @@ public class Hero {
         this.name = name;
         this.power = power;
         this.speed = speed;
-
     }
 
     public void setName(String name) {

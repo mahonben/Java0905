@@ -7,6 +7,7 @@ public class Drink {
     public Drink() {
         System.out.println("default constructor 호출");
     }
+
     public Drink(String name, int price) {
         this.name = name;
         this.price = price;

@@ -23,6 +23,7 @@ public class Avenger {
         return healthPower;
     }
 
+
     public void punch(Avenger enemy) {
         System.out.printf("<%s>의 펀치가 날아갔다.", name);
         enemy.setHealthPower(enemy.getHealthPower()-10);
