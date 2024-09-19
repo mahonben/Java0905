@@ -9,7 +9,6 @@ public class MainStudent {
 
         System.out.printf("생성된 Student 객체의 개수: %d개", Student.count);
 
-
     }
     
 }

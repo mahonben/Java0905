@@ -10,7 +10,6 @@ public class Student {
     String name;
 
 
-
     Student(int id, String name) {
         count++;
         this.id = id;

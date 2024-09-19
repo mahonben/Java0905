@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class MainAccount {
     public static void main(String[] args) {
 
-
         Scanner scan1 = new Scanner(System.in);
         Scanner scan2 = new Scanner(System.in);
 
