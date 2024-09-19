@@ -13,7 +13,6 @@ public class Account {
         this.pwd = pwd;
         this.balance = balance;
     }
-
     public int getBalance() {
         return balance;
     }

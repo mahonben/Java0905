@@ -16,5 +16,6 @@ public class MainMyMath {
         scan.close();
 
 
+
     }
 }
