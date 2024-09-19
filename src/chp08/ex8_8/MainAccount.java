@@ -8,7 +8,6 @@ public class MainAccount {
         Scanner scan1 = new Scanner(System.in);
         Scanner scan2 = new Scanner(System.in);
 
-
         System.out.printf("계좌번호입력(5자리): ");
         String accountNumber = scan1.nextLine();
         System.out.printf("* 성명 입력: ");
